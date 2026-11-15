@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "project": "referral-revenue-tracker",
+  "settings": {
+    "currency": "USD",
+    "landingUrl": "https://example.com/contact"
+  },
+  "records": [
+    {
+      "id": "referral-1",
+      "name": "Maple Studio",
+      "partner": "Amina Partners",
+      "code": "AMINA",
+      "orderId": "order-100",
+      "amount": 2000,
+      "rewardRate": 10,
+      "status": "paid",
+      "rewardPaid": false
+    },
+    {
+      "id": "referral-2",
+      "name": "River Foods",
+      "partner": "Bilal Partners",
+      "code": "BILAL",
+      "orderId": "lead-200",
+      "amount": 1000,
+      "rewardRate": 5,
+      "status": "lead",
+      "rewardPaid": false
+    }
+  ]
+}
