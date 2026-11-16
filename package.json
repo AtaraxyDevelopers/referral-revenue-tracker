@@ -1,6 +1,6 @@
 {
   "name": "@ataraxydevelopers/referral-revenue-tracker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "Connect referral codes with verified sales and outstanding partner rewards.",
